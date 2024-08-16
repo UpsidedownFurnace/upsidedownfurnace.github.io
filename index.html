@@ -10,16 +10,23 @@
             <!--<label>Show position grid: </label>
             <input type='checkbox' id='spg'>-->
             <label>Show all furnaces: </label>
-            <input type='checkbox' id='fsi'>
-            <button id='al'>Set Location (still working on)</button>
-            <!--<button id='cr' onclick='alert("Coming soon!")'>Create New Region</button>
-            <button id='expb' onclick='alert("Coming soon!")'>Export changes</button>-->
-            <input class="export-output">
-            <center>
+            <input type='checkbox' id='fsi'><br>
+            <label>Show editor: </label>
+            <input type='checkbox' id='se'>
+            <center style='margin: 10px;'>
                 <img src='maptitle.png'>
             </center>
         </div>
-        <pre class='bottom-stuff'>Programmed by u/UpsidedownFurnace | map version: beta 1.0</pre>
+        <div class='editor-box'>
+            <center>
+                <h3>Map Editor</h3>
+            </center>
+            <button id='al'>Set Location</button><br>
+            <button id='cr' onclick='alert("Coming soon!")'>Create New Region</button><br>
+            <button id='expb' onclick='alert("Coming soon!")'>Export changes</button><br>
+            <textarea class="export-output" placeholder="export output"></textarea>
+        </div>
+        <pre class='bottom-stuff'>Programmed by u/UpsidedownFurnace | map version: beta 1.1</pre>
         <canvas id='c'></canvas>
         <!--<script src='dat.js'></script>
         <script src='map.js'></script>-->
