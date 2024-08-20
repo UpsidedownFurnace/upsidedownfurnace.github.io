@@ -223,12 +223,12 @@ const location_dat = [
     {
         x: -1000,
         y: -2276,
-        uname:'idownloadfurnaces'
+        uname: 'idownloadfurnaces'
     },
     {
         x: -3654,
         y: 1093,
-        uname:"paxsims
+        uname: 'paxsims'
     },
     {
         x: 5083,
