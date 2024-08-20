@@ -223,27 +223,7 @@ const location_dat = [
     {
         x: -1000,
         y: -2276,
-        uname: 'idownloadfurnaces'
-    },
-    {
-        x: -3654,
-        y: 1093,
-        uname: 'paxsims'
-    },
-    {
-        x: 5083,
-        y: 1080,
-        uname: 'baconburger2022'
-    },
-    {
-        x: 3098,
-        y: -52.92,
-        uname: 'awsome_furnace'
-    },
-    {
-        x: -1734,
-        y: -2125,
-        uname: "invertedFurnace"
+        uname: "idownloadfurnaces"
     }
 ];
 
