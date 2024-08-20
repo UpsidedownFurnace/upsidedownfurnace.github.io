@@ -223,7 +223,32 @@ const location_dat = [
     {
         x: -1000,
         y: -2276,
-        uname: "idownloadfurnaces"
+        uname: 'idownloadfurnaces'
+    },
+    {
+        x: -3654,
+        y: 1093,
+        uname: 'paxsims'
+    },
+    {
+        x: 5083,
+        y: 1080,
+        uname: 'baconburger2022'
+    },
+    {
+        x: 3097,
+        y: -52,
+        uname: 'awsome_furnace'
+    },
+    {
+        x: -1734,
+        y: -2125,
+        uname: 'invertedFurnace'
+    },
+    {
+        x: -3370,
+        y: 2907,
+        uname: "lidl-brand-furnace"
     }
 ];
 
@@ -325,7 +350,17 @@ const pois = [
     {
         x: -413,
         y: 2714,
-        name: "Ice Spire"
+        name: 'Ice Spire'
+    },
+    {
+        x: -1729,
+        y: -2108,
+        name: 'Froza'
+    },
+    {
+        x: -3910,
+        y: 3260,
+        name: "The Crusible Islands"
     }
 ]
 
