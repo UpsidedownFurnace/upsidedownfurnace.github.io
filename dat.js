@@ -91,13 +91,8 @@ const location_dat = [
         uname: 'capitalistfurnace'
     },
     {
-        x: -451,
-        y: -630,
-        uname: 'invertedfurnace'
-    },
-    {
-        x: -412,
-        y: -434,
+        x: 4800,
+        y: -37,
         uname: 'americanfurnace'
     },
     {
@@ -244,6 +239,11 @@ const location_dat = [
         x: -1734,
         y: -2125,
         uname: 'invertedFurnace'
+    },
+    {
+        x: -684,
+        y: -1700,
+        uname: 'coaldfreezer'
     },
     {
         x: -3370,
