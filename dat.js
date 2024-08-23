@@ -82,8 +82,8 @@ const location_dat = [
     {
         x: -26,
         y: -330,
-        uname: 'F.P.D',
-        nou: true
+        uname: 'furnace_police',
+        leader:true
     },
     {
         x: -412,
@@ -360,7 +360,7 @@ const pois = [
     {
         x: -1000,
         y: -2350,
-        uname: 'Downloadia'
+        name: 'Downloadia'
     },
     {
         x: -3910,
