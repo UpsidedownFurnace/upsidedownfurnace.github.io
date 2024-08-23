@@ -358,6 +358,11 @@ const pois = [
         name: 'Froza'
     },
     {
+        x: 4888,
+        y: 186,
+        name: 'Furnamerica'
+    },
+    {
         x: -1000,
         y: -2350,
         name: 'Downloadia'
