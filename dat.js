@@ -80,8 +80,8 @@ const location_dat = [
         leader:true
     },
     {
-        x: -26,
-        y: -330,
+        x: -270,
+        y: -400,
         uname: 'furnace_police',
         leader:true
     },
@@ -175,8 +175,8 @@ const location_dat = [
         nou: true
     },
     {
-        x: -229,
-        y: -140,
+        x: -320,
+        y: -113,
         uname: 'iunfuckfurnaces'
     },
     {
@@ -244,6 +244,11 @@ const location_dat = [
         x: -684,
         y: -1700,
         uname: 'coaldfreezer'
+    },
+    {
+        x: -2021,
+        y: -478,
+        uname: 'spyfurnace'
     },
     {
         x: -3370,
@@ -366,6 +371,11 @@ const pois = [
         x: -1000,
         y: -2350,
         name: 'Downloadia'
+    },
+    {
+        x: -2025,
+        y: -350,
+        name: 'Furance'
     },
     {
         x: -3910,
