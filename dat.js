@@ -122,8 +122,8 @@ const location_dat = [
         leader:true
     },
     {
-        x: 151,
-        y: -1400,
+        x: -3320,
+        y: -2407,
         uname: 'fakefurnace'
     },
     {
