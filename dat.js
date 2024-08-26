@@ -195,8 +195,8 @@ const location_dat = [
         uname: 'dragonfurnace'
     },
     {
-        x: 355,
-        y: -1669,
+        x: 253,
+        y: -3279,
         uname: 'freezersorcerer'
     },
     {
